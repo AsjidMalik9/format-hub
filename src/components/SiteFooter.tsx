@@ -11,6 +11,12 @@ export function SiteFooter() {
           <span className="footer-sep">·</span>
           <Link href="/convert">Convert</Link>
           <span className="footer-sep">·</span>
+          <Link href="/about">About</Link>
+          <span className="footer-sep">·</span>
+          <Link href="/privacy">Privacy</Link>
+          <span className="footer-sep">·</span>
+          <Link href="/contact">Contact</Link>
+          <span className="footer-sep">·</span>
           <Link href="/press">Press</Link>
           <span className="footer-sep">·</span>
           <span className="footer-copy">© {new Date().getFullYear()} FormatHub</span>
