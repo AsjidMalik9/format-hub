@@ -11,6 +11,7 @@ export function SiteHeader() {
           <Link href="/">Home</Link>
           <Link href="/tools">Tools</Link>
           <Link href="/convert">Convert</Link>
+          <Link href="/about">About</Link>
           <Link href="/press">Press</Link>
         </nav>
       </div>
